@@ -1,1 +1,1 @@
-# 100_days_of_code-day2
+# 100_days_of_code
